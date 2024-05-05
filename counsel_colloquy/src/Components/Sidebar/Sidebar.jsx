@@ -3,7 +3,14 @@ import React from 'react'
 const Sidebar = () => {
   return (
     <div>
-      Hello world
+      <div>
+        <div>
+          <img className="w-40" src="https://i.imgur.com/zqpwkLQ.png" alt="" />
+        </div>
+        <div>
+            
+        </div>
+      </div>
     </div>
   )
 }
